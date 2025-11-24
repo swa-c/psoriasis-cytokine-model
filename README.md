@@ -17,7 +17,6 @@ The system is formulated using two coupled **ordinary differential equations (OD
 - **Natural production and degradation rates**
 - **Parameter-dependent shifts in stability**
 
-This structure enables examination of **multiple steady states**, **threshold effects**, and **emergent behaviour** that characterise dysregulated immune responses.
 
 ---
 
@@ -29,8 +28,6 @@ The project implements several computational methods, including:
 - **Time-series simulations** of cytokine dynamics
 - **Phase-plane visualisation**
 - **Parameter sensitivity exploration** to map regions supporting bistability
-
-These analyses allow identification of **critical parameter regimes** where stable psoriatic and healthy-like states coexist.
 
 ---
 
